@@ -11,11 +11,8 @@ Assignment 2, Re-design of assignment1 with REST API and More
 # 系统设计
 ## 前端
 （1） Vue2
-![image-20230610141911766](Assignment_2_design_report.assets/image-20230610141911766.png)
-
 （2） Ant Design & Ant Design Vue
 （3） Axios
-
 axios 是一个基于 Promise 的 HTTP 客户端，可以在浏览器和 Node.js 环境中使用，用于发送 HTTP 请求并处理响应。它具有以下特点：
 支持浏览器和 Node.js 平台
 支持 Promise API
