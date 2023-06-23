@@ -42,4 +42,21 @@ Assignment 1, A **Shipping and Transportation Web application** Development with
 
 ## 运行截图
 ![img](Assignment_1_design_report.assets/clip_image004.jpg)
+![img](Assignment_1_design_report.assets/clip_image006.jpg)
+![img](Assignment_1_design_report.assets/clip_image008.jpg)
+![img](Assignment_1_design_report.assets/clip_image010.jpg)
+![img](Assignment_1_design_report.assets/clip_image012.jpg)
+![img](Assignment_1_design_report.assets/clip_image016.jpg)
+![img](Assignment_1_design_report.assets/clip_image018.jpg)
+![img](Assignment_1_design_report.assets/clip_image020.jpg)
+![img](Assignment_1_design_report.assets/clip_image022.jpg)
+![img](Assignment_1_design_report.assets/clip_image024.jpg)
+![img](Assignment_1_design_report.assets/clip_image026.jpg)
+![img](Assignment_1_design_report.assets/clip_image028.jpg)
+![img](Assignment_1_design_report.assets/clip_image030.jpg)
+![img](Assignment_1_design_report.assets/clip_image032.jpg)
+![img](Assignment_1_design_report.assets/clip_image034.jpg)
+![img](Assignment_1_design_report.assets/clip_image036.jpg)
+![img](Assignment_1_design_report.assets/clip_image038.jpg)
+
 
