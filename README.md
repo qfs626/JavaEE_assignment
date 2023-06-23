@@ -39,3 +39,7 @@ Assignment 1, A **Shipping and Transportation Web application** Development with
 构建工具：Maven
 测试工具：Junit + JMeter
 数据库管理工具：Navicat
+
+## 运行截图
+![img](Assignment_1_design_report.assets/clip_image004.jpg)
+
